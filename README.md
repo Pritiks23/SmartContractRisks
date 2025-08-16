@@ -1,4 +1,4 @@
-Microsoft Security Incident Analysis
+**Microsoft Security Incident Analysis**
 
 ![Logo](https://security.sdsu.edu/_resources/images/physical-sec1.jpg)
 
